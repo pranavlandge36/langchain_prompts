@@ -1,0 +1,2 @@
+HumanMessage(content='Today we are working on mark 1 suit')
+AIMessage(content='Yes, sir thats a nice plan lets start by designing the arc reactor first')
